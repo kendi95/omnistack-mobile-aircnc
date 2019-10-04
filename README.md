@@ -1,0 +1,1 @@
+This project was made together with OmniStack community of Rocketseat.
